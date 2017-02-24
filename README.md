@@ -1,2 +1,2 @@
 # flippy
-Flippy messaging mobile app
+Flippy: Coin flipping game
