@@ -17,7 +17,7 @@ class Coin
 
     public:
         int flip();
-        int maxDecimal(int );
+        int maxDecimal();
         void print();
         std::string decToBin();
         // Constructor initializes value by calling flip()

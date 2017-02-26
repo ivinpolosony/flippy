@@ -44,7 +44,7 @@ Coin::Coin(int count)
 {
     count_ = count;
     valueBin_ = "";
-    maxDecimal_ = maxDecimal(count);
+    maxDecimal_ = maxDecimal();
     valueDec_ = flip();
     valueBin_ = decToBin();
 }
